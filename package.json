@@ -1,0 +1,23 @@
+{
+  "name": "customizable-dashboard-builder",
+  "version": "1.0.0",
+  "description": "Builder for customizable web dashboards, supporting widgets and data integration.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xcosmocat/customizable-dashboard-builder"
+  },
+  "author": "0xcosmocat",
+  "license": "MIT",
+  "dependencies": {
+    "distributed-task-manager": "1.0.0",
+    "customizable-dashboard-builder": "1.0.0",
+    "passport": "1.0.0",
+    "supertest": "1.0.0",
+    "web3-react": "1.0.0",
+    "eslint": "1.0.0"
+  }
+}
